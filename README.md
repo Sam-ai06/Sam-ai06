@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner de mi perfil" width="100%" />
+</p>
+
 ## ¡Hola, Bienvenid@ a mi perfil! 
 
 
