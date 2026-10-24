@@ -12,11 +12,9 @@ Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolv
  
 
 
-<table>
-  <tr>
-    <td width="45%" valign="top">
 
 ## Tecnologías y herramientas
+<img align="right" alt="GIF" src="assets/awesome workspace.gif" width="360px"/>
 
 ### Lenguajes de programación
 ![R](https://img.shields.io/badge/R-%232648D1?style=flat-square&logo=r&logoColor=white)
@@ -43,12 +41,8 @@ Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolv
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%235C9C4C?style=flat-square&logo=springboot&logoColor=white)
 
-  </td>
-  <td width="35%" align="center" valign="middle">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding GIF"/>
-  </td>
-  </tr>
-</table>
+
+
 
 
 ## Proyectos destacados
