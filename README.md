@@ -9,9 +9,6 @@ He trabajado con Java, R y Figma en proyectos académicos, además de explorar P
 Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas reales. Actualmente estoy ampliando mis habilidades en desarrollo web y backend, con interés en seguir explorando áreas como ciencia de datos, inteligencia artificial y desarrollo de aplicaciones.
 .
 
- 
-
-
 
 ## Tecnologías y herramientas
 <img align="right" alt="GIF" src="assets/awesome workspace.gif" width="360px"/>
@@ -46,17 +43,22 @@ Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolv
 
 
 ## Proyectos destacados
-próximamente
+<div align="left">
+  
+
+<a href="https://github.com/Sam-ai06/gestion-alumnos-SpringBoot"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=gestion-alumnos-SpringBoot&theme=dark_github_repocard"/></a>
+<a href="https://github.com/Sam-ai06/App-cine-android-Studio"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=App-cine-android-Studio&theme=dark_github_repocard"/></a>
+<a href="https://github.com/Sam-ai06/Grafos-Arboles-Aeropuerto"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=Grafos-Arboles-Aeropuerto&theme=dark_github_repocard"/></a>
+<a href="https://github.com/Sam-ai06/proyect-software-design"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=proyect-software-design&theme=dark_github_repocard"/></a>
+
+
+</div>
 
 
 ## Estadísticas de github
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sam-ai06&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estadísticas de GitHub"
-  />
-</p>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sam-ai06&layout=compact&langs_count=7&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Sam-ai06&layout=compact&langs_count=7&theme=dark_github)
+&nbsp;&nbsp;&nbsp;
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sam-ai06&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Sam-ai06&show_icons=true&include_all_commits=true&theme=dark_github)
 
 ## Contacto
 Mis redes sociales y dónde encontrarme:
