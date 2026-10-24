@@ -14,7 +14,7 @@ Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolv
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="45%" valign="top">
 
 ## Tecnologías y herramientas
 
