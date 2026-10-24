@@ -48,8 +48,8 @@ Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolv
 
 <a href="https://github.com/Sam-ai06/gestion-alumnos-SpringBoot"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=gestion-alumnos-SpringBoot&theme=dark_github_repocard"/></a>
 <a href="https://github.com/Sam-ai06/App-cine-android-Studio"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=App-cine-android-Studio&theme=dark_github_repocard"/></a>
-<a href="https://github.com/Sam-ai06/Grafos-Arboles-Aeropuerto"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=Grafos-Arboles-Aeropuerto&theme=dark_github_repocard"/></a>
-<a href="https://github.com/Sam-ai06/proyect-software-design"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=proyect-software-design&theme=dark_github_repocard"/></a>
+<a href="https://github.com/Sam-ai06/Grafos-Arboles-Aeropuerto"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=Grafos-Arboles-Aeropuerto&theme=dark_github_repocard&description_lines_count=3"/></a>
+<a href="https://github.com/Sam-ai06/Proyecto_Estadistica_R"><img height="155" src="https://github-stats-extended.vercel.app/api/pin/?username=Sam-ai06&repo=Proyecto_Estadistica_R&theme=dark_github_repocard"/></a>
 
 
 </div>
