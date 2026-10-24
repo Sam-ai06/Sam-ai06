@@ -2,24 +2,66 @@
   <img src="assets/banner.png" alt="Banner de mi perfil" width="100%" />
 </p>
 
-# ¡Hola, Bienvenid@ a mi perfil! :
-
-
-Soy Samuel Villagomez, y estudio ingeniería en computación en la Escuela Superior Politécnica del Litoral (ESPOL) <img width="25" height="25" align = "absmiddle" alt="image" src="https://github.com/user-attachments/assets/93438257-d448-413d-9ab2-3b09febf8d0a" /><img width="25" height="25"  align = "absmiddle" alt="image" src="https://github.com/user-attachments/assets/58534206-0de1-4b65-a87b-f6d660739fa9" /> 
+# ¡Hola, Bienvenid@ a mi perfil!👋 
+Soy Samuel Villagómez, estudiante de sexto semestre de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL). 
+A lo largo de mi formación he adquirido conocimientos en fundamentos de computación, programación orientada a objetos, estructuras de datos, bases de datos, desarrollo de software y diseño de interfaces UX/UI.
+He trabajado con Java, R y Figma en proyectos académicos, además de explorar Python de manera autónoma fuera de la universidad.
+Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas reales. Actualmente estoy ampliando mis habilidades en desarrollo web y backend, con interés en seguir explorando áreas como ciencia de datos, inteligencia artificial y desarrollo de aplicaciones.
 .
-Actualmente cursando 5to semestre. Poseo bases sólidas en formación sobre fundamentos de computación, desarrollo de software, estructuras de datos, UX/UI <img width="28" height="28" align = "absmiddle" alt="image" src="https://github.com/user-attachments/assets/da3eaf72-1ced-47f3-bcbc-bc631f54960d" />
- y bases de datos. <img width="28" height="28"  align = "absmiddle" alt="image" src="https://github.com/user-attachments/assets/cd62d162-1e0f-403a-9f51-05a47d45db9e" /> Me gusta aprender tecnologías de forma autónoma. Busco crecer en áreas como TI, desarrollo de software, ciencia de datos, Machine Learning y desarrollo de interfaces web/móviles
+
+ 
 
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
- #### Tecnologías que manejo actualmente
-![Static Badge](https://img.shields.io/badge/python-%234187CC?style=flat-square&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/java-%23DB4646?style=flat-square&logo=openjdk&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQL-%23009DFF?style=flat-square&logo=postgresql&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/git-%23FF6600?style=flat-square&logo=git&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Postman-%23FF8340?style=flat-square&logo=postman&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Figma-%23B031D4?style=flat-square&logo=figma&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/MySQL-%230A67A1?style=flat-square&logo=mysql&logoColor=white&logoSize=auto)
+## Tecnologías y herramientas
+
+### Lenguajes de programación
+![R](https://img.shields.io/badge/R-%232648D1?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23009DFF?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%234187CC?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23DEC81F?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23DB4646?style=flat-square&logo=openjdk&logoColor=white)
+
+### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-%230A67A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Desarrollo web y diseño de interfaces
+![HTML5](https://img.shields.io/badge/HTML5-%23FF5100?style=flat-square&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23B031D4?style=flat-square&logo=figma&logoColor=white)
+
+### Herramientas de desarrollo
+![Git](https://img.shields.io/badge/Git-%23FF6600?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF8340?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%2356C0E3?style=flat-square&logo=docker&logoColor=white)
+
+### Actualmente aprendiendo
+![TypeScript](https://img.shields.io/badge/TypeScript-%23017BCC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2300D8FF?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%235C9C4C?style=flat-square&logo=springboot&logoColor=white)
+
+  </td>
+  <td width="35%" align="center" valign="middle">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding GIF"/>
+  </td>
+  </tr>
+</table>
+
+
+## Proyectos destacados
+próximamente
+
+
+## estadísticas de github
+próximanente
+
+
+## Contacto
+próximamente
+
 
 
 
