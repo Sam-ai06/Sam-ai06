@@ -49,12 +49,23 @@ Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolv
 próximamente
 
 
-## estadísticas de github
-próximanente
+## Estadísticas de github
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sam-ai06&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estadísticas de GitHub"
+  />
+</p>
 
 
 ## Contacto
-próximamente
+Mis redes sociales y dónde encontrarme:
+<br>
+<br>
+[![Static Badge](https://img.shields.io/badge/Github-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sam-ai06)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230b66c3?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/samuel-villagomez-255138333)
+[![Static Badge](https://img.shields.io/badge/Instagram-%239C3FF2?style=for-the-badge&logoColor=white)](https://www.instagram.com/sam_.vr_/)
+
 
 
 
