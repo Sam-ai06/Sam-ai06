@@ -61,9 +61,9 @@ Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolv
 
 
 ## Estadísticas de github
-![GitHub Stats](assets/github-stats.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sam-ai06&layout=compact&langs_count=7&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Sam-ai06&layout=compact&langs_count=7&theme=dark_github)
 &nbsp;&nbsp;&nbsp;
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sam-ai06&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Sam-ai06&show_icons=true&include_all_commits=true&theme=dark_github)
+![GitHub Stats](assets/github-stats.svg)
 
 ## Contacto
 Mis redes sociales y dónde encontrarme:
