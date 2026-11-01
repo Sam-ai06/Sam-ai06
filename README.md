@@ -1,9 +1,14 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sam-ai06&label=Visitas&color=0b66c3&style=flat-square"
+       alt="Contador de visitas al perfil" />
+</p>
+
 <p align="center">
   <img src="assets/banner.png" alt="Banner de mi perfil" width="100%" />
 </p>
 
 # ¡Hola, Bienvenid@ a mi perfil!👋 
-Soy Samuel Villagómez, estudiante de sexto semestre de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL). 
+Soy un estudiante de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL). 
 A lo largo de mi formación he adquirido conocimientos en fundamentos de computación, programación orientada a objetos, estructuras de datos, bases de datos, desarrollo de software y diseño de interfaces UX/UI.
 He trabajado con Java, R y Figma en proyectos académicos, además de explorar Python de manera autónoma fuera de la universidad.
 Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas reales. Actualmente estoy ampliando mis habilidades en desarrollo web y backend, con interés en seguir explorando áreas como ciencia de datos, inteligencia artificial y desarrollo de aplicaciones.
